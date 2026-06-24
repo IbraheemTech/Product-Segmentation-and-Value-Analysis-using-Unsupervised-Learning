@@ -31,3 +31,22 @@ The project aims to:
 * Interpret product segments and generate business insights that can support pricing strategies, inventory planning, and recommendation systems.
 
 Ultimately, this project demonstrates how machine learning can transform raw e-commerce data into actionable business intelligence.
+
+---
+
+🛠 Tools & Technologies
+
+For your project, I'd organize them by category instead of one long list.
+
+Category	Technologies
+Programming	Python
+Web Scraping	Scrapy
+Data Processing	Pandas, NumPy
+Data Cleaning	Missing Value Handling, Duplicate Removal, Data Type Conversion
+Exploratory Data Analysis	Matplotlib, Seaborn
+Feature Engineering	Log Transformation, Value Score
+Machine Learning	Scikit-learn (K-Means Clustering)
+Model Evaluation	Elbow Method, Silhouette Score
+Development	Jupyter Notebook, VS Code
+Version Control	Git, GitHub
+
