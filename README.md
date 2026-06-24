@@ -1,7 +1,7 @@
 # Amazon Product Segmentation and Value Analysis using Unsupervised Learning
 
 <p align="center">
-  <img src="image/project_diagram.png" width="900">
+  <img src="image/project_diagram.png" alt="Project Pipeline" width="100%">
 </p>
 
 ---
@@ -31,7 +31,3 @@ The project aims to:
 * Interpret product segments and generate business insights that can support pricing strategies, inventory planning, and recommendation systems.
 
 Ultimately, this project demonstrates how machine learning can transform raw e-commerce data into actionable business intelligence.
-
----
-
-![Alternative Text Here](image/project_diagram.png)
