@@ -1,7 +1,7 @@
 # Amazon Product Segmentation and Value Analysis using Unsupervised Learning
 
 <p align="center">
-  <img src="images/project_pipeline.png" width="900">
+  <img src="image/project_diagram.png" width="900">
 </p>
 
 ---
